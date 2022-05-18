@@ -34,3 +34,16 @@ text “The sun shines over the lake” and n = 3, it should return the list {(�
 
 As a final note, please follow the instructions (which are not complicated) and perform the
   tasks on an industry-standard level.
+
+## Frameworks used:
+- Spring boot
+- Junit / Jupiter
+
+## How to run:
+use
+```mvn clean install```
+or
+```mvn test```
+to verify the test cases.
+
+
